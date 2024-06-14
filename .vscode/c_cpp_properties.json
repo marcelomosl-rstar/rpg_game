@@ -43,7 +43,8 @@
             "name": "Linux",
             "includePath": [
                 "/home/linuxbrew/.linuxbrew/include",
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "/home/linuxbrew/.linuxbrew/Cellar/llvm/18.1.4/include/c++/v1"
             ],
             "defines": [
                 "_DEBUG",
