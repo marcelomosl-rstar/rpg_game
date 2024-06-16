@@ -44,7 +44,10 @@
             "includePath": [
                 "/home/linuxbrew/.linuxbrew/include",
                 "${workspaceFolder}/**",
-                "/home/linuxbrew/.linuxbrew/Cellar/llvm/18.1.4/include/c++/v1"
+                "/home/linuxbrew/.linuxbrew/Cellar/llvm/18.1.4/include/c++/v1",
+                "${workspaceFolder}/Classes/Props",
+                "${workspaceFolder}/Classes/Character",
+                "${workspaceFolder}/Classes/Enemy"
             ],
             "defines": [
                 "_DEBUG",
